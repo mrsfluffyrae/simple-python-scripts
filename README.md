@@ -1,7 +1,5 @@
 # Workbench: first Python scripts for the bookshop
 
-Four small command-line scripts. Python 3.11 or newer, standard library only, no third-party packages.
-
 | Script | What it does |
 | --- | --- |
 | `hello.py` | Greets a name given as an argument (default `World`) |
